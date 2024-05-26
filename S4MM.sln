@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S4MM", "S4MM\S4MM.csproj", "{2B9E554B-5E0D-4C96-9D1D-669707BD7859}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NfcRW", "NfcRW\NfcRW.csproj", "{62CD7916-4013-4901-9400-2BDB200386ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B9E554B-5E0D-4C96-9D1D-669707BD7859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9E554B-5E0D-4C96-9D1D-669707BD7859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9E554B-5E0D-4C96-9D1D-669707BD7859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9E554B-5E0D-4C96-9D1D-669707BD7859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62CD7916-4013-4901-9400-2BDB200386ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CD7916-4013-4901-9400-2BDB200386ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CD7916-4013-4901-9400-2BDB200386ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CD7916-4013-4901-9400-2BDB200386ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
